@@ -1,4 +1,4 @@
-# kateoneill.github.io
+# kateoneill
 
 ## Kate O'Neill Github pages!
 
