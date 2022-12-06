@@ -1,3 +1,4 @@
 # Build Setting
 markdown: kramdown
-remote_theme: Huxpro/huxpro.github.io
+remote_theme: kitian616/jekyll-TeXt-theme
+
