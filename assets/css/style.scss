@@ -4,7 +4,8 @@
 @import "{{ site.theme }}";
 a {
   color: green;
+
   &:hover {
-    color: bluel
+    color: blue;
 }
   
