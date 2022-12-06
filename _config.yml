@@ -1,4 +1,4 @@
 # Build Setting
 markdown: kramdown
-remote_theme: kitian616/jekyll-TeXt-theme
+remote_theme: benbalter/retlab
 
